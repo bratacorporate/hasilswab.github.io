@@ -1,0 +1,31 @@
+@media screen and (max-width: 767px) {
+    .container {
+        width: 100%;
+        padding: 20px 20px 80px 20px;
+    }
+
+    .content {
+        width: 100%;
+    }
+    .card-body .col {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 1em;
+        font-size: 1rem !important;
+    }
+    .card-body .col:last-child {
+        margin-bottom: 0;
+    }
+    .location {
+        margin: 1rem !important;
+    }
+    .location a h4 {
+        font-size: 2vmax;
+    }
+
+}
+
+/* smartphone */
+@media screen and (max-width: 375px) {
+    
+}
