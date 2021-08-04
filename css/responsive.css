@@ -20,12 +20,11 @@
         margin: 1rem !important;
     }
     .location a h4 {
-        font-size: 2vmax;
+        font-size: 1.8vmax;
     }
 
 }
 
 /* smartphone */
 @media screen and (max-width: 375px) {
-    
 }
